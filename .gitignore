@@ -6,3 +6,6 @@ output/
 
 # Ignore config file
 config.ini
+
+# Ignore cache file
+cache/

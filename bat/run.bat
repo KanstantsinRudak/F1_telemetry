@@ -1,1 +1,1 @@
-docker run --publish 5000:5000 dockerpy
+docker run --publish 8050:8050 dockerpy
