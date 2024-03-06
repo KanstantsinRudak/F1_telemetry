@@ -1,0 +1,8 @@
+# Ignore input folder
+input/
+
+# Ignore output folder
+output/
+
+# Ignore config file
+config.ini
